@@ -2,9 +2,6 @@
 
 VisionTrade is a futuristic, open-source trading dashboard built with Next.js and powered by Google's Gemini AI. It provides traders with a modern, intuitive interface for market analysis, real-time data visualization, and AI-driven insights.
 
-![VisionTrade Dashboard Screenshot](https://placehold.co/800x450.png)
-_Note: The image above is a placeholder. A real screenshot of the application should be added._
-
 ## ✨ Key Features
 
 - **Modern UI/UX:** A sleek, glassmorphic design built with Tailwind CSS and ShadCN UI.
