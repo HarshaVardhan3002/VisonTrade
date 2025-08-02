@@ -75,6 +75,16 @@ Follow these instructions to get a local copy up and running.
 5.  **Open the application:**
     Navigate to `http://localhost:9002` in your browser to see the application in action.
 
+## Images
+<img width="1375" height="830" alt="Screenshot 2025-08-02 203944" src="https://github.com/user-attachments/assets/9f8185d8-d36f-40a3-bddc-f7bf068ad4fc" />
+
+<img width="1376" height="880" alt="Screenshot 2025-08-02 203628" src="https://github.com/user-attachments/assets/6dda7e75-9154-4fef-b293-68da27bf9fe9" />
+
+<img width="1896" height="970" alt="Screenshot 2025-08-02 204257" src="https://github.com/user-attachments/assets/ea37894c-0af6-4862-849e-87c3758f6347" />
+
+<img width="1909" height="975" alt="Screenshot 2025-08-02 204349" src="https://github.com/user-attachments/assets/062ff5dd-61d2-4b7f-8337-0dcacdd375c4" />
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions for improving VisionTrade, please feel free to fork the repository and submit a pull request.
